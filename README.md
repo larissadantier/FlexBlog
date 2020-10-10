@@ -12,7 +12,7 @@
 
 - HTML e CSS ✅.
 - Flexbox ✅.
-- Responsividade ✅.
+- Responsividade com FlexBox ✅.
 
 ## 📋 Considerações Finais
 
